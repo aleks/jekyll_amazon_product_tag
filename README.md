@@ -7,7 +7,7 @@ Liquid tag to show amazon product previews (with locally cached images) in blog 
 ## Install plugin
 Add `jekyll_amazon_product_tag.rb` to your `_plugins` folder.
 
-## Create `products` folder and `products.yml`
+## Create local cache folder
 
 1. Create a new `products` directory in your jekyll root path.
 2. Add an empty `products.yml` file to it.
