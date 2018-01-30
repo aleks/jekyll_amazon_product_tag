@@ -23,6 +23,9 @@ amazon_product:
   associate_tag: 'ASSOCIATE_TAG'
 ```
 ## Add Product previews to your posts
-Liquid Tag `{% amazon_product AMAZON_ID %}`
+Liquid Tag: 
+```
+{% amazon_product AMAZON_ID %}
+```
 
 If the URL is `https://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330/` then `0321721330` will be the AMAZON_ID.
